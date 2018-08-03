@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email: zourenyuan@gmail.com
-description: A simple and awesome blog theme powered by jekyll.
-url: https://renyuanz.github.io/leonids # the base hostname & protocol for your site
-keywords: ["Programming", "PHP", "Ruby"]
+title: Dubem's Blog
+email: nriagudubem@gmail.com
+description: A collection of Nriagu Dubem's thoughts, written down!
+url: http://localhost:4000 # the base hostname & protocol for your site
+keywords: ["Programming", "PHP", "Java", "Groovy", "JavaScript"]
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Africa/lagos
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,14 +33,12 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "PHP & Ruby Developer"
-  bio: "A backend developer who loves design awesome things. Working for RendezvousCheznous atm in Marseille, France."
-  email: zourenyuan@gmail.com
-  disqus-shortname: renyuanzblog
-  twitter: renyuan814 #username
-  facebook: #username
+  name: Nriagu Chidubem
+  avatar: profile.jpg
+  job: "Committed life long learner"
+  email: nriagudubem@gmail.com
+  twitter: http://twitter.com/nriagudubem #username
+  facebook: https://web.facebook.com/dnriagu #username
   google:
     plus: #username
     analytics: UA-62251910-2
@@ -48,9 +46,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: renyuanz #username
+  github: https://github.com/dubems #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: renyuan-zou-69b7038a #username
+  linkedin: https://www.linkedin.com/in/chidubem-nriagu-1538479b/ #username
   xing: #username
   instagram: #username
   lastfm: #username
