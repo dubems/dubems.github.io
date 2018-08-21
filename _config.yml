@@ -6,7 +6,7 @@
 title: Dubem's Blog
 email: nriagudubem@gmail.com
 description: A collection of Nriagu Dubem's thoughts, written down!
-url: http://localhost:4000 # the base hostname & protocol for your site
+url: http://nriagudubem.com # the base hostname & protocol for your site
 keywords: ["Programming", "PHP", "Java", "Groovy", "JavaScript"]
 
 #
